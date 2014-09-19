@@ -1,0 +1,41 @@
+{
+  "name": "Headland One",
+  "designer": "Gary Lonergan",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Serif",
+  "size": 26762,
+  "fonts": [
+    {
+      "name": "HeadlandOne",
+      "style": "normal",
+      "weight": 400,
+      "filename": "HeadlandOne-Regular-OTF.ttf",
+      "postScriptName": "HeadlandOne-Regular",
+      "fullName": "HeadlandOne-Regular",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Headland\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "HeadlandOne",
+      "style": "normal",
+      "weight": 400,
+      "filename": "HeadlandOne-Regular-TTF.ttf",
+      "postScriptName": "HeadlandOne-Regular",
+      "fullName": "HeadlandOne-Regular",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Headland\".\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "HeadlandOne",
+      "style": "normal",
+      "weight": 400,
+      "filename": "HeadlandOne-Regular.ttf",
+      "postScriptName": "HeadlandOne-Regular",
+      "fullName": "HeadlandOne-Regular",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Headland\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-05-09"
+}

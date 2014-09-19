@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [HeadlandOne-Regular.ttf.ttx, src/HeadlandOne-Regular.otf.ttx, src/HeadlandOne-Regular-TTF.sfd,
+  src/HeadlandOne-Regular-OTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
